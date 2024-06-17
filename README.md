@@ -3,6 +3,7 @@
  Step 1. Create a GitHub Repository:
  
  ![Screenshot (321)](https://github.com/Navjotkaur02/mtm6302-capstone-Navjotkaur02/assets/134635232/d3d30486-b106-40cd-b4c9-ddf6c062aff5) 
+
  
  Step 2. Invite Professor as Collaborator:
  
