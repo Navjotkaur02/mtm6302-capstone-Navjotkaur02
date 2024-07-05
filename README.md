@@ -5,7 +5,7 @@
 
 Here are the detailed steps for completing the Capstone Project - Part 2:-
 
-Stp 1: Create a part-2 branch from the part-1 branch:
+Step 1: Create a part-2 branch from the part-1 branch:
 
 ![Screenshot (326)](https://github.com/Navjotkaur02/mtm6302-capstone-Navjotkaur02/assets/134635232/5c3123dc-5d9d-4d5a-b913-3701e3d4c2b5)
 
