@@ -37,16 +37,23 @@
  3. Update README.md with progress and challenges.
  4. Regularly commit and push changes to the part-1 branch on GitHub.
 
-Capston part-2
+<h3> Capston part-2</h3>
+
 mockup:-
 part 1:
 ![Screenshot (326)](https://github.com/Navjotkaur02/mtm6302-capstone-Navjotkaur02/assets/134635232/5c3123dc-5d9d-4d5a-b913-3701e3d4c2b5)
 
+window
+
+![Screenshot (343)](https://github.com/Navjotkaur02/mtm6302-capstone-Navjotkaur02/assets/134635232/c13d32a5-7021-4ce1-8970-2a451c94b297)
+
 adobe XD tablate
 
+![Screenshot (344)](https://github.com/Navjotkaur02/mtm6302-capstone-Navjotkaur02/assets/134635232/4b059221-5c7a-4145-b9d8-587c3265fa11)
 
 mobile 
+![Screenshot (345)](https://github.com/Navjotkaur02/mtm6302-capstone-Navjotkaur02/assets/134635232/41389853-10c6-4be6-8999-52a5903921ae)
 
 
 
-window
+
