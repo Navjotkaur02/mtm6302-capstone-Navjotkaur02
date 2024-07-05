@@ -15,6 +15,31 @@ Step 2: Switch to the part-2 branch:
 
 Step 3: create a mockup:-
 
+Mockup Design Decisions
+
+1. Colours
+Primary: #2C3E50 (Dark Blue)
+Secondary: #3498DB (Bright Blue)
+Accent: #ECF0F1 (Light Grey)
+
+2. Fonts
+Primary: Montserrat
+Secondary: Lora
+
+3. Layout and Elements
+Header: Logo on the left, navigation links (HOME, ABOUT, CONTACT) on the right.
+Hero Section: Full-width starry sky image, headings: "Explore the Universe" and subheading.
+Introduction: "welcome to astronomy picture of the day" text, brief mission statement.
+Picture of the Day: Three featured images of celestial objects.
+Call to Action: "GET STARTED" button.
+Footer: Copyright info, social media icons, newsletter subscription form.
+Responsive Design
+
+4. Desktop: Full-width images and text.
+5. Tablet: Collapsible menu, adjusted image sizes.
+6. Mobile: Vertical scrolling, hamburger menu, stacked images and text.
+
+
 1. <h4>adobe XD window</h4>
 
 ![Screenshot (343)](https://github.com/Navjotkaur02/mtm6302-capstone-Navjotkaur02/assets/134635232/c13d32a5-7021-4ce1-8970-2a451c94b297)
