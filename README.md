@@ -1,7 +1,8 @@
 # mtm6302-capstone-Navjotkaur02
  <hr><h1>Name : Navjot Kaur<br>student id : 90541112192<br>project: Astronomy Picture of the Day </h1> 
 
-** Capstone project part-1 :-**
+<h2>Capstone project part-1 :-</h2>
+
  Step 1. Create a GitHub Repository:
  
 ![Screenshot (321)](https://github.com/Navjotkaur02/mtm6302-capstone-Navjotkaur02/assets/134635232/45e7f8d3-c152-4e2d-9269-e44e34e047b3)
@@ -36,6 +37,7 @@
  3. Update README.md with progress and challenges.
  4. Regularly commit and push changes to the part-1 branch on GitHub.
 
+Capston part-2
 mockup:-
 part 1:
 ![Screenshot (326)](https://github.com/Navjotkaur02/mtm6302-capstone-Navjotkaur02/assets/134635232/5c3123dc-5d9d-4d5a-b913-3701e3d4c2b5)
