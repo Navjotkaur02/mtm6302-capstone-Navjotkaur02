@@ -33,3 +33,16 @@
  2. Develop a static prototype using HTML and CSS.
  3. Update README.md with progress and challenges.
  4. Regularly commit and push changes to the part-1 branch on GitHub.
+
+mockup:-
+part 1:
+![Screenshot (326)](https://github.com/Navjotkaur02/mtm6302-capstone-Navjotkaur02/assets/134635232/5c3123dc-5d9d-4d5a-b913-3701e3d4c2b5)
+
+adobe XD tablate
+
+
+mobile 
+
+
+
+window

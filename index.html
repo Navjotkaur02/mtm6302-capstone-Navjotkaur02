@@ -3,27 +3,72 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Astronomy Picture of the Day</title>
+    <title>Astronomy World - Home</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="container">
-        <h1>Astronomy Picture of the Day</h1>
-        <form id="date-form">
-            <label for="date">Select a Date:</label>
-            <input type="date" id="date" name="date" required>
-            <button type="submit">Get Picture</button>
-        </form>
-        <div id="apod-container">
-            <h2 id="apod-title"></h2>
-            <p id="apod-date"></p>
-            <img id="apod-image" src="" alt="Astronomy Picture of the Day">
-            <p id="apod-explanation"></p>
-            <button id="save-favorite">Save to Favorites</button>
+
+    <header>
+            <div class="logo">
+                <img src="659-538-removebg-preview.png" alt="Astronomy Logo">
+                <h1>Astronomy</h1>
+            </div>
+            <ul class="nav-links">
+                <li><a href="index.html" class="active">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="header-content">
+            <h2>Explore the Universe</h2>
+            <p>Discover the beauty and mystery of the cosmos</p>
         </div>
-        <h2>Favorites</h2>
-        <div id="favorites-container"></div>
-    </div>
-    <script src="Script.js"></script>
+    </header>
+
+    <main>
+        <section class="apod">
+            <h2>Welcome to Astronomy Picture of the Day</h2>
+            <p>"Welcome to Astronomy World, your portal to the infinite universe. Dive into a celestial journey where each day brings new discoveries and awe-inspiring revelations. Whether you're gazing at the night sky from your backyard or exploring the cosmos through our digital lens, Astronomy World is your guide to understanding the vastness and intricacies of space. Our mission is to spark curiosity, deepen understanding, and foster a community of passionate stargazers and astronomers alike. Join us as we unravel the mysteries of distant galaxies, explore planetary landscapes, and celebrate the beauty of the cosmos."
+
+                This content aims to evoke a sense of wonder and exploration, inviting visitors to engage with the rich content and resources offered by Astronomy World. Feel free to tailor it further to align with your website's voice and objectives.</p>
+            <button id="get-started-btn">Get Started</button>
+        </section>
+
+        <section id="apod-content">
+            <!-- APOD image and information will be displayed here -->
+        </section>
+        <section id="testimonials">
+            <h2>What Our Visitors Say</h2>
+            <div class="testimonial">
+                <blockquote>"I love the daily astronomy pictures! It's like a mini adventure every day." - Amanda</blockquote>
+            </div>
+            <div class="testimonial">
+                <blockquote>"This site has reignited my childhood fascination with space. Thank you for inspiring me!" - Mark</blockquote>
+            </div>
+        </section>
+    </main>
+    
+    <button id="start-btn"><a href="https://navjotkaur02.github.io/mtm6302-capstone-Navjotkaur02/" target="_blank" rel="noopener noreferrer">picture of the day</a></button> 
+    <br>
+    <br>
+
+    <footer>
+        <div class="footer-content">
+            <p>&copy; 2024 Astronomy World. All Rights Reserved</p>
+            <form id="newsletter-form">
+                <label for="newsletter">Follow our newsletter for updates:</label>
+                <input type="email" id="newsletter" name="newsletter" placeholder="Email" required>
+                <button type="submit">Subscribe</button>
+            </form>
+        </div>
+        <div class="social-links">
+            <a href="#"><img src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-512.png" alt="TikTok"></a>
+            <a href="#"><img src="https://static.vecteezy.com/system/resources/thumbnails/023/986/613/small/facebook-logo-facebook-logo-transparent-facebook-icon-transparent-free-free-png.png" alt="Facebook"></a>
+            <a href="#"><img src="https://static.vecteezy.com/system/resources/thumbnails/038/447/961/small/ai-generated-instagram-logo-free-png.png" alt="Instagram"></a>
+            <a href="#"><img src="https://clipartcraft.com/images/youtube-icon-clipart-video-8.png" alt="YouTube"></a>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
 </body>
 </html>
