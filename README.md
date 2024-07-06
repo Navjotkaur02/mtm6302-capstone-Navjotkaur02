@@ -1,5 +1,60 @@
 # mtm6302-capstone-Navjotkaur02
  <hr><h1>Name : Navjot Kaur<br>student id : 90541112192<br>project: Astronomy Picture of the Day </h1> 
+
+<h3> Capston part-2</h3>
+
+Here are the detailed steps for completing the Capstone Project - Part 2:-
+
+Step 1: Create a part-2 branch from the part-1 branch:
+
+![Screenshot (326)](https://github.com/Navjotkaur02/mtm6302-capstone-Navjotkaur02/assets/134635232/5c3123dc-5d9d-4d5a-b913-3701e3d4c2b5)
+
+Step 2: Switch to the part-2 branch:
+
+![Screenshot (346)](https://github.com/Navjotkaur02/mtm6302-capstone-Navjotkaur02/assets/134635232/ea571a1f-8fe8-43f4-ba07-ce3d0f5662ea)
+
+Step 3: create a mockup:-
+
+Mockup Design Decisions
+
+1. Colours
+Primary: #2C3E50 (Dark Blue)
+Secondary: #3498DB (Bright Blue)
+Accent: #ECF0F1 (Light Grey)
+
+2. Fonts
+Primary: Montserrat
+Secondary: Lora
+
+3. Layout and Elements
+Header: Logo on the left, navigation links (HOME, ABOUT, CONTACT) on the right.
+Hero Section: Full-width starry sky image, headings: "Explore the Universe" and subheading.
+Introduction: "welcome to astronomy picture of the day" text, brief mission statement.
+Picture of the Day: Three featured images of celestial objects.
+Call to Action: "GET STARTED" button.
+Footer: Copyright info, social media icons, newsletter subscription form.
+Responsive Design
+
+4. Desktop: Full-width images and text.
+5. Tablet: Collapsible menu, adjusted image sizes.
+6. Mobile: Vertical scrolling, hamburger menu, stacked images and text.
+
+
+1. <h4>adobe XD window</h4>
+
+![Screenshot (343)](https://github.com/Navjotkaur02/mtm6302-capstone-Navjotkaur02/assets/134635232/c13d32a5-7021-4ce1-8970-2a451c94b297)
+
+2. <h5>adobe XD tablate</h5>
+
+![Screenshot (344)](https://github.com/Navjotkaur02/mtm6302-capstone-Navjotkaur02/assets/134635232/4b059221-5c7a-4145-b9d8-587c3265fa11)
+
+3. <h6> adobe XD mobile </h6>
+
+![Screenshot (345)](https://github.com/Navjotkaur02/mtm6302-capstone-Navjotkaur02/assets/134635232/41389853-10c6-4be6-8999-52a5903921ae)
+
+
+<h2>Capstone project part-1 :-</h2>
+
  Step 1. Create a GitHub Repository:
  
 ![Screenshot (321)](https://github.com/Navjotkaur02/mtm6302-capstone-Navjotkaur02/assets/134635232/45e7f8d3-c152-4e2d-9269-e44e34e047b3)
@@ -34,15 +89,32 @@
  3. Update README.md with progress and challenges.
  4. Regularly commit and push changes to the part-1 branch on GitHub.
 
-mockup:-
-part 1:
+<h3> Capston part-2</h3>
+
+Here are the detailed steps for completing the Capstone Project - Part 2:-
+
+Stp 1: Create a part-2 branch from the part-1 branch:
+
 ![Screenshot (326)](https://github.com/Navjotkaur02/mtm6302-capstone-Navjotkaur02/assets/134635232/5c3123dc-5d9d-4d5a-b913-3701e3d4c2b5)
 
-adobe XD tablate
+Step 2: Switch to the part-2 branch:
+
+![Screenshot (346)](https://github.com/Navjotkaur02/mtm6302-capstone-Navjotkaur02/assets/134635232/ea571a1f-8fe8-43f4-ba07-ce3d0f5662ea)
+
+Step 3: create a mockup:-
+
+1. <h4>adobe XD window</h4>
+
+![Screenshot (343)](https://github.com/Navjotkaur02/mtm6302-capstone-Navjotkaur02/assets/134635232/c13d32a5-7021-4ce1-8970-2a451c94b297)
+
+2. <h5>adobe XD tablate</h5>
+
+![Screenshot (344)](https://github.com/Navjotkaur02/mtm6302-capstone-Navjotkaur02/assets/134635232/4b059221-5c7a-4145-b9d8-587c3265fa11)
+
+3. <h6> adobe XD mobile </h6>
+
+![Screenshot (345)](https://github.com/Navjotkaur02/mtm6302-capstone-Navjotkaur02/assets/134635232/41389853-10c6-4be6-8999-52a5903921ae)
 
 
-mobile 
 
 
-
-window
