@@ -53,6 +53,8 @@ Responsive Design
 ![Screenshot (345)](https://github.com/Navjotkaur02/mtm6302-capstone-Navjotkaur02/assets/134635232/41389853-10c6-4be6-8999-52a5903921ae)
 
 
+
+
 <h2>Capstone project part-1 :-</h2>
 
  Step 1. Create a GitHub Repository:
