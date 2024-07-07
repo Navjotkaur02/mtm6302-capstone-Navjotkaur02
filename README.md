@@ -53,6 +53,11 @@ Responsive Design
 ![Screenshot (345)](https://github.com/Navjotkaur02/mtm6302-capstone-Navjotkaur02/assets/134635232/41389853-10c6-4be6-8999-52a5903921ae)
 
 
+<h7>merging branch branch part-2<h7>
+
+![Screenshot (356)](https://github.com/Navjotkaur02/mtm6302-capstone-Navjotkaur02/assets/134635232/da351ed4-f7f8-4fc5-92e9-ce35f801770d)
+
+![Screenshot (357)](https://github.com/Navjotkaur02/mtm6302-capstone-Navjotkaur02/assets/134635232/b80b0ec0-1c67-408c-b0ee-71a49e732f1b)
 
 
 <h2>Capstone project part-1 :-</h2>
