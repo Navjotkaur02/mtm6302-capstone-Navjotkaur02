@@ -14,6 +14,8 @@ body {
 
 /* Header styles */
 header {
+    position: relative;
+    background-image: url(shutterstock_471693773.jpg);
     background-color: #1a2b4c;
     color: #fff;
     padding: 20px 0;
@@ -80,7 +82,8 @@ main {
     padding: 20px;
     max-width: 1200px;
     margin: 20px auto;
-    background: #fff;
+    background:#1a2b4c;
+    color: white;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -121,14 +124,14 @@ section {
 #testimonials {
     padding: 40px 20px;
     text-align: center;
-    background-color: #e9ecef; /* Lighter gray background for the testimonials section */
+    background-color: #2e395e; /* Lighter gray background for the testimonials section */
 }
 
 .testimonial {
     margin-bottom: 20px;
     padding: 20px;
     border-radius: 8px;
-    background-color: #fff; /* White background for each testimonial */
+    background-color: #2e395e; /* White background for each testimonial */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Shadow for a subtle lift effect */
 }
 
@@ -136,7 +139,7 @@ section {
     font-size: 1.2rem;
     font-style: italic;
     margin: 0;
-    color: #555; /* Dark gray text color */
+    color: #fcfbfb; /* Dark gray text color */
 }
 
 .testimonial blockquote:before {
@@ -144,24 +147,13 @@ section {
     font-size: 3rem;
     line-height: 0;
     vertical-align: -0.4em;
-    color: #4caf50; /* Green color for quotation mark */
+    color: #2e395e; /* Green color for quotation mark */
     margin-right: 0.2em;
 }
 
 .testimonial blockquote:after {
     content: '';
 }
-
-#start-btn {
-    align-self: center; /* Align self to center within its parent */
-    text-align: center; /* Align text content to center */
-    color: #fff; /* White text color */
-    padding: 10px 20px; /* Padding around text */
-    font-size: 1rem; /* Font size */
-    border-radius: 4px; /* Rounded corners */
-    text-decoration: none; /* Remove default link underline */
-    display :centre; /* Display as inline block */
-    transition: background-color 0.3s ease; }
 
 form {
     display: flex;
