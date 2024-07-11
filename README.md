@@ -50,8 +50,30 @@ Step:4 in this step click on  **merge pull request**
 
  ![Screenshot (354)](https://github.com/Navjotkaur02/mtm6302-capstone-Navjotkaur02/assets/134635232/a40a8161-e2e3-4d60-be2e-ae32123c3232)
 
- 
-<h3>capstone part-1</h3> 
+ <h4>**output**</h4>
+
+1.** homepage:-**
+
+![Screenshot (365)](https://github.com/user-attachments/assets/a8f45031-1db8-4759-9e02-a00083846bd6)
+
+![Screenshot (367)](https://github.com/user-attachments/assets/108e4baf-942d-4ebf-b880-d7093cb20e07)
+
+2. **About:-**
+
+  ![Screenshot (369)](https://github.com/user-attachments/assets/2f673138-54fc-4a92-846b-c79cc13f53df)
+
+![Screenshot (370)](https://github.com/user-attachments/assets/cd949ca3-35a6-4ae3-b315-8286db57b8b6)
+
+![Screenshot (371)](https://github.com/user-attachments/assets/b67924da-f03d-47dc-b095-ed28cd49ed9f)
+
+3. **contact:-**
+
+   ![Screenshot (372)](https://github.com/user-attachments/assets/e5fbfdca-53cc-4d42-a1e9-70e15f1e4cb4)
+
+![Screenshot (373)](https://github.com/user-attachments/assets/fa021b7f-9f89-4c88-85fc-a9aa759d0e39)
+
+
+**<h3>capstone part-1</h3> **
 
  Step 1. Create a GitHub Repository:
  
