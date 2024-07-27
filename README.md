@@ -1,6 +1,58 @@
 # mtm6302-capstone-Navjotkaur02
- <hr><h1>Name : Navjot Kaur<br>student id : 90541112192<br>project: Astronomy Picture of the Day </h1> 
- <h2>capstone part 3</h2>
+ <hr><h1>Name : Navjot Kaur<br>student id : 90541112192<br>project: Capstone part-4 </h1> 
+
+<h2>here the steps to complete this project:</h2> 
+
+ 1.Create a part-4 branch from the part-3 branch.
+
+ ![Screenshot (446)](https://github.com/user-attachments/assets/fd755f6f-dea4-4565-bff8-1094d1997675)
+
+2. Switch to the part-4 branch.
+   ![Screenshot (447)](https://github.com/user-attachments/assets/0e0083a7-c2b2-4e99-a7fc-befd616ab344)
+
+3. Create index.html, style.css, and script.js, about.html, contact.html files.
+
+   ![Screenshot (454)](https://github.com/user-attachments/assets/9e501262-6176-42d4-bea5-73ec5974fa4c)
+
+ 4. add index.html, about.html and contact.html.
+    
+   ![Screenshot (449)](https://github.com/user-attachments/assets/64170486-4466-4e22-99a6-45a9b692f9b6)
+
+   ![Screenshot (452)](https://github.com/user-attachments/assets/d3871024-ad7e-48ed-93e1-308f70bcde7b)
+
+![Screenshot (453)](https://github.com/user-attachments/assets/3951eb7b-14c7-4b41-8256-a02474a51363)
+
+
+Implement basic styling in style.css.
+
+![Screenshot (450)](https://github.com/user-attachments/assets/56c51a41-e251-4c97-b981-1cc63766284d)
+
+Write JavaScript code in script.js using const or let.
+
+![Screenshot (451)](https://github.com/user-attachments/assets/67aaae31-49f4-4c03-8953-52b3a1103995)
+
+<h3>here is output</h3>
+
+![Screenshot (455)](https://github.com/user-attachments/assets/6b6b1589-56f3-4b3c-9840-981f5fdfd585)
+
+![Screenshot (456)](https://github.com/user-attachments/assets/a37ccf63-bf87-468a-9afd-de2fd208b8e1)
+
+![Screenshot (457)](https://github.com/user-attachments/assets/224e6026-9e54-40ed-ada5-2e9019cce5b6)
+
+![Screenshot (458)](https://github.com/user-attachments/assets/9ccefcf1-2166-43a5-8e08-f3e82a8cf089)
+
+![Screenshot (459)](https://github.com/user-attachments/assets/078071d0-6176-41ff-8162-c23800df8946)
+
+**Challenges Faced**
+1. Responsive Design:
+Ensuring the web application is fully responsive across various devices and screen sizes required extensive testing and tweaking of CSS and Bootstrap/Tailwind classes.
+2. Event Listeners:
+Transitioning from inline events to event listeners required refactoring the JavaScript code to ensure all interactions were handled correctly.
+3. Fetch API:
+Using the Fetch API instead of XMLHttpRequest or jQuery ajax() involved learning its syntax and handling promises effectively.
+ 
+ 
+   <h4>capstone part 3</h4>
 
  Step 1. Created a new branch part-3 from part-2.
 
@@ -50,7 +102,7 @@ Step:4 in this step click on  **merge pull request**
 
  ![Screenshot (354)](https://github.com/Navjotkaur02/mtm6302-capstone-Navjotkaur02/assets/134635232/a40a8161-e2e3-4d60-be2e-ae32123c3232)
 
- <h4>**output**</h4>
+ <h5>**output**</h5>
 
 1.** homepage:-**
 
@@ -73,7 +125,7 @@ Step:4 in this step click on  **merge pull request**
 ![Screenshot (373)](https://github.com/user-attachments/assets/fa021b7f-9f89-4c88-85fc-a9aa759d0e39)
 
 
-**<h3>capstone part-1</h3> **
+**<h6>capstone part-1</h6> **
 
  Step 1. Create a GitHub Repository:
  
