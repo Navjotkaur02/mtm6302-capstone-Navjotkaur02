@@ -8,13 +8,14 @@
  ![Screenshot (446)](https://github.com/user-attachments/assets/fd755f6f-dea4-4565-bff8-1094d1997675)
 
 2. Switch to the part-4 branch.
+   
    ![Screenshot (447)](https://github.com/user-attachments/assets/0e0083a7-c2b2-4e99-a7fc-befd616ab344)
 
-3. Create index.html, style.css, and script.js, about.html, contact.html files.
+4. Create index.html, style.css, and script.js, about.html, contact.html files.
 
    ![Screenshot (454)](https://github.com/user-attachments/assets/9e501262-6176-42d4-bea5-73ec5974fa4c)
 
- 4. add index.html, about.html and contact.html.
+ 5. add index.html, about.html and contact.html.
     
    ![Screenshot (449)](https://github.com/user-attachments/assets/64170486-4466-4e22-99a6-45a9b692f9b6)
 
@@ -44,10 +45,13 @@ Write JavaScript code in script.js using const or let.
 ![Screenshot (459)](https://github.com/user-attachments/assets/078071d0-6176-41ff-8162-c23800df8946)
 
 **Challenges Faced**
+
 1. Responsive Design:
 Ensuring the web application is fully responsive across various devices and screen sizes required extensive testing and tweaking of CSS and Bootstrap/Tailwind classes.
+
 2. Event Listeners:
 Transitioning from inline events to event listeners required refactoring the JavaScript code to ensure all interactions were handled correctly.
+
 3. Fetch API:
 Using the Fetch API instead of XMLHttpRequest or jQuery ajax() involved learning its syntax and handling promises effectively.
  
