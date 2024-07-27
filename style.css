@@ -1,254 +1,170 @@
-/* Basic reset and styles */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
+/* General Styles */
 body {
     font-family: Arial, sans-serif;
-    line-height: 1.6;
-    background-color: #f0f0f0;
-    color: #333;
-}
-
-/* Header styles */
-header {
-    position: relative;
-    background-image: url(shutterstock_471693773.jpg);
-    background-color: #1a2b4c;
-    color: #fff;
-    padding: 20px 0;
-    text-align: center;
-    position: relative;
-}
-
-nav {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 20px;
-}
-
-.logo img {
-    height: 80px;
-    margin-right: 10px;
-}
-
-.logo h1 {
-    font-size: 1.8rem;
-    display: inline-block;
-    vertical-align: middle;
-}
-
-.nav-links {
-    list-style: none;
-    display: flex;
-}
-
-.nav-links li {
-    margin-left: 20px;
-}
-
-.nav-links a {
-    color: #fff;
-    text-decoration: none;
-    font-size: 1rem;
-}
-
-.nav-links a.active {
-    font-weight: bold;
-    border-bottom: 2px solid #fff;
-}
-
-.header-content {
-    text-align: center;
-    margin-top: 20px;
-}
-
-.header-content h2 {
-    font-size: 2.5rem;
-    margin-bottom: 10px;
-}
-
-.header-content p {
-    font-size: 1.2rem;
-}
-
-/* Main content styles */
-main {
-    padding: 20px;
-    max-width: 1200px;
-    margin: 20px auto;
-    background:#1a2b4c;
-    color: white;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-section {
-    margin-bottom: 60px;
-}
-
-.apod {
-    text-align: center;
-}
-
-.apod h2 {
-    font-size: 2rem;
-    margin-bottom: 10px;
-}
-
-.apod p {
-    font-size: 1.1rem;
-    margin-bottom: 20px;
-}
-
-#apod-content {
-    text-align: center;
-}
-
-#apod-content h3 {
-    font-size: 1.5rem;
-    margin-bottom: 10px;
-}
-
-#apod-content img {
-    max-width: 100%;
-    height: auto;
-    margin-bottom: 10px;
-}
-
-#testimonials {
-    padding: 40px 20px;
-    text-align: center;
-    background-color: #2e395e; /* Lighter gray background for the testimonials section */
-}
-
-.testimonial {
-    margin-bottom: 20px;
-    padding: 20px;
-    border-radius: 8px;
-    background-color: #2e395e; /* White background for each testimonial */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Shadow for a subtle lift effect */
-}
-
-.testimonial blockquote {
-    font-size: 1.2rem;
-    font-style: italic;
     margin: 0;
-    color: #fcfbfb; /* Dark gray text color */
-}
-
-.testimonial blockquote:before {
-    content: '\201C'; /* Left double quotation mark */
-    font-size: 3rem;
-    line-height: 0;
-    vertical-align: -0.4em;
-    color: #2e395e; /* Green color for quotation mark */
-    margin-right: 0.2em;
-}
-
-.testimonial blockquote:after {
-    content: '';
-}
-
-form {
+    padding: 0;
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    justify-content: space-between;
+    min-height: 100vh;
+    background-color: #f5f5f5; /* Soft light gray background */
+    color: #333333; /* Dark gray text for readability */
 }
 
-form label {
-    font-size: 1rem;
-}
-
-form input, form textarea, form button {
-    padding: 10px;
-    font-size: 1rem;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-}
-
-form textarea {
-    resize: vertical;
-    min-height: 100px;
-}
-
-form button {
-    background-color: #4caf50;
-    color: #fff;
-    border: none;
-    cursor: pointer;
-}
-
-form button:hover {
-    background-color: #45a049;
-}
-
-/* Footer styles */
-footer {
-    background-color: #1a2b4c;
-    color: #fff;
-    padding: 20px 0;
+header {
+    background-color: #4e5d6c; /* Muted navy blue for a professional look */
+    color: #ffffff; /* White text for high contrast */
+    padding: 20px;
     text-align: center;
-    position: relative;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
 }
 
-.footer-content {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 20px;
+.logo {
+    max-width: 120px; /* Consistent size for branding */
 }
 
-.footer-content p {
-    margin-bottom: 20px;
-}
-
-#newsletter-form {
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0 0;
     display: flex;
     justify-content: center;
+    gap: 20px; /* Spacing between links */
+}
+
+nav ul li {
+    display: inline;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #dbe2e8; /* Light gray-blue for links */
+    font-size: 18px;
+    font-weight: bold;
+    transition: color 0.3s, text-shadow 0.3s;
+}
+
+.nav-link:hover {
+    color: #a1c4fd; /* Soft light blue for hover effect */
+    text-shadow: 1px 1px 4px rgba(161, 196, 253, 0.3); /* Subtle shadow effect */
+}
+
+main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     align-items: center;
-    gap: 10px;
+    padding: 20px;
 }
 
-#newsletter-form label {
-    font-size: 1rem;
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* Spacing between buttons */
 }
 
-#newsletter-form input {
-    padding: 10px;
-    font-size: 1rem;
-    border: none;
-    border-radius: 4px;
+.project-button {
+    background-color: #ffffff; /* Clean white background for buttons */
+    color: #4e5d6c; /* Muted navy blue for text */
+    border: 1px solid #dbe2e8; /* Light gray-blue border */
+    padding: 15px 30px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s, border-color 0.3s;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
 }
 
-#newsletter-form button {
-    padding: 10px 20px;
-    font-size: 1rem;
-    border: none;
-    border-radius: 4px;
-    background-color: #4caf50;
-    color: #fff;
+.project-button:hover {
+    background-color: #f1f5f9; /* Slightly darker gray on hover */
+    border-color: #a1c4fd; /* Soft light blue border on hover */
+    transform: scale(1.05);
     cursor: pointer;
 }
 
-#newsletter-form button:hover {
-    background-color: #45a049;
+footer {
+    background-color: #4e5d6c; /* Muted navy blue for the footer */
+    color: #ffffff; /* White text for high contrast */
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
 }
 
-.social-links {
-    margin-top: 20px;
+.about-content {
+    max-width: 800px;
+    width: 100%;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-.social-links a {
-    margin: 0 10px;
-    display: inline-block;
+.about-content img {
+    max-width: 300px;
+    height: 300px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; /*centre the image */
 }
 
-.social-links img {
-    height: 40px;
-    width: 40px;
+.about-content h1, .about-content h2 {
+    color: #4e5d6c;
+    margin-top: 0;
+}
+
+.about-content p {
+    line-height: 1.6;
+}
+
+.about-content ul {
+    list-style-type: disc;
+    margin: 0;
+    padding-left: 20px;
+}
+
+.about-content ul li {
+    margin-bottom: 10px;
+}
+
+/* Contact Page Styles */
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    max-width: 500px;
+    width: 100%;
+}
+
+.contact-form label {
+    font-weight: bold;
+}
+
+.contact-form input,
+.contact-form textarea {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+    font-size: 16px;
+}
+
+.contact-form button {
+    background-color: #4e5d6c; /* Muted navy blue for button */
+    color: white; /* White text for high contrast */
+    border: none;
+    padding: 15px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.contact-form button:hover {
+    background-color: #3d4a58; /* Darker navy blue on hover */
 }
